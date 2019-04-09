@@ -84,12 +84,12 @@ Iterative approach:
 
 Here are five German traffic signs that I found on the web:
 
-![Stop-Sign] <img src="new_images/1.jpg">
-![Bumpy Road] <img src="new_images/2.jpg">
-![Ahead Only] <img src="new_images/3.jpg"> 
-![No Vehicles] <img src="new_images/4.jpg">
-![Go straight or left] <img src="new_images/5.jpg">
-![General caution] <img src="new_images/6.jpg">
+Stop-Sign <img src="new_images/1.jpg">
+Bumpy Road <img src="new_images/2.jpg">
+Ahead Only <img src="new_images/3.jpg"> 
+No Vehicles <img src="new_images/4.jpg">
+Go straight or left <img src="new_images/5.jpg">
+General caution <img src="new_images/6.jpg">
 
 
 #### The model performed optimally on the new images by classifying each of them correctly. Please refer to the code.
